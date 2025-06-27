@@ -10,3 +10,4 @@ A not so shitty cortana for linux
   -config.py        # API keys & settings
   -requirements.txt # Dependencies
   -startup.sh       # Optional: Autostart script
+  
