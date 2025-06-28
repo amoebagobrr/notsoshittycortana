@@ -9,5 +9,4 @@ A not so shitty cortana for linux
   - commands.py      # System command integration
   - config.py        # API keys & settings
   - requirements.txt # Dependencies
-  - startup.sh       # Optional: Autostart script
   
